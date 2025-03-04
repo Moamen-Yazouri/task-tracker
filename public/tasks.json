@@ -1,0 +1,27 @@
+[
+    {
+    "id": 1,
+    "title": "Learn Next.js Basics",
+    "completed": false
+    },
+    {
+    "id": 2,
+    "title": "Build Task Tracker UI",
+    "completed": true
+    },
+    {
+    "id": 3,
+    "title": "Fetch Tasks from API",
+    "completed": false
+    },
+    {
+    "id": 4,
+    "title": "Implement Error Handling",
+    "completed": true
+    },
+    {
+    "id": 5,
+    "title": "Style with Tailwind CSS",
+    "completed": false
+    }
+]
