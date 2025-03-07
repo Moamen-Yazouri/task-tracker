@@ -5,7 +5,6 @@ import { getTasks } from '@/services/fetchData.services';
 
 const TasksList = async () => {
     const tasks = await getTasks();
-    console.log(tasks)
     return (
         <div className='bg-transparent '>
             {
